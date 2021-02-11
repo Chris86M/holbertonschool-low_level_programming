@@ -11,15 +11,14 @@
 /* betty style doc for function main goes there */
 
 int main(void)
-	}
-	int letters = "z";
+{
+	int letra = '97';
 
-while
-(letters >= 'a');
-
+	while
+(letra > '123');
 	{
-		putchar(letters);
-		letters--;
+		putchar(letra);
+		letra++;
 	}
 	putchar('\n');
 	return (0);
