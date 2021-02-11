@@ -12,13 +12,13 @@
 
 int main(void)
 {
-	int letra = '97';
+	int var = '97';
 
 	while
-(letra > '123');
+(var > '123');
 	{
 		putchar(letra);
-		letra++;
+		var++;
 	}
 	putchar('\n');
 	return (0);
